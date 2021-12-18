@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "enter the array value"
-read num
+read 10 20 30 40 50
 i=1
 lar=$i
 for i in $num
