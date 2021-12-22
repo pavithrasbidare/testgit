@@ -1,6 +1,6 @@
 #!/bin/bash
 read num
-num='10 20 30 40 50'
+num="10 20 30 40 50"
 i=1
 lar=$i
 for i in $num
