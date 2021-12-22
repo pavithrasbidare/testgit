@@ -1,4 +1,5 @@
 #!/bin/bash
+#Testing Poll Scm
 echo "enter the array value"
 read num
 i=1
