@@ -1,10 +1,6 @@
 #!/bin/bash
-#Testing Poll Scm
-#Pavithra
-#Testing
-#testing webhook
-#echo "enter the array value"
-read 10 20 30 40 50
+read num
+num='10 20 30 40 50'
 i=1
 lar=$i
 for i in $num
